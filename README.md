@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shirley-gli
-- 👀 I’m interested in database 
-- 🌱 I’m currently learning college
-- 💞️ I’m looking to collaborate on xml projects
+
 
 
 <!---
